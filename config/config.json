@@ -1,0 +1,18 @@
+{
+    "dev":{
+        "database": "book",
+        "username": "root",
+        "password": "Qotu3350@",
+        "dialectInfo": {
+            "dialect": "mysql",
+            "host": "localhost"
+        },
+        "pool": {
+            "max": 3,
+            "min": 0,
+            "acquire": 20000,
+            "idle": 10000
+        }
+         
+    }
+}
